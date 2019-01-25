@@ -88,7 +88,6 @@ Suggested print settings:
 - Print the y-belt holder [top](./parts/belt-holders/y-belt_holder-top.stl) and [bottom](./parts/belt-holders/y-belt_holder-bottom.stl) each 1 time. Su
 - Print the [x-belt tensioner](./parts/belt-tensioners/x-tensioner.stl) 1 time.
 - Print the y-belt [tensioner](./parts/belt-tensioners/y-tensioner.stl), [adapter](./parts/belt-tensioners/y-tensioner-adapter.stl) and [holder](./parts/belt-tensioners/y-tensioner-holder.stl) each 1 time.
-- Print the [z-wobble fix](./parts/z-wobble/z-wobblefix.stl) 1 time and the [t-corner](./parts/z-wobble/t-corner.stl) 2 times.
 
 Install the belt tensioners, the belt holders, the t-corners
 and the z-wobble fixes on your Anet A8 printer.
